@@ -19,3 +19,7 @@ By using this application, you agree to use it at your own risk.
 ### 1.1
 
 - support for HEIC file type added
+
+### 1.2
+
+- bug with HEIC format fixed
