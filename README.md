@@ -15,3 +15,7 @@ By using this application, you agree to use it at your own risk.
 
 - initial creation
 - supports PNG to ICO, JPG
+
+### 1.1
+
+- support for HEIC file type added
